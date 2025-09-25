@@ -1,0 +1,47 @@
+Minneapolis police use of force data.
+Description
+From Minneapolis, data from 2016 through August 2021
+
+Usage
+mn_police_use_of_force
+Format
+A data frame with 12925 rows and 13 variables.
+
+response_datetime
+DateTime of police response.
+
+problem
+Problem that required police response.
+
+is_911_call
+Whether response was iniated by call to 911.
+
+primary_offense
+Offense of subject.
+
+subject_injury
+Whether subject was injured Yes/No/null.
+
+force_type
+Type of police force used.
+
+force_type_action
+Detail of police force used.
+
+race
+Race of subject.
+
+sex
+Gender of subject.
+
+age
+Age of subject.
+
+type_resistance
+Resistance to police by subject.
+
+precinct
+Precinct where response occurred.
+
+neighborhood
+Neighborhood where response occurred.
